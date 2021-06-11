@@ -32,7 +32,7 @@ Allure Report tool is a flexible lightweight test report tool. It allows everyon
 * Clone the framework.
 * Run the TestNG.xml file.
 * Go to Terminal and paste
-* ## Allure Serve
+ *Allure Serve*
 
 ## Test Summary Report
 
