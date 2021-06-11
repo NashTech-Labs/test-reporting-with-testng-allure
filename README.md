@@ -37,7 +37,6 @@ Allure Report tool is a flexible lightweight test report tool. It allows everyon
 
 ## Test Summary Report
 
-
-
+![Screenshot from 2021-06-10 15-58-02](https://user-images.githubusercontent.com/43197101/121710658-7397e780-caf7-11eb-988b-1dfc1d548408.png)
 
 
