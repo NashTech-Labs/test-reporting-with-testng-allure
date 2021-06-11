@@ -33,7 +33,7 @@ Allure Report tool is a flexible lightweight test report tool. It allows everyon
 * Run the TestNG.xml file.
 * Go to Terminal and paste below command.
 
-        **Allure Serve**
+      Allure Serve
 
 ## Test Summary Report
 
